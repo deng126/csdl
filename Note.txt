@@ -1,0 +1,13 @@
+Thêm tab Thống Kê
+	- Tổng quát
+	- Hóa đơn, phiếu nhập
+	- Sản phẩm
+	- Nhân viên
+	- Khách hàng
+	- Nhà cung cấp
+
+Lương
+	- Lương cứng
+	- Thưởng doanh thu: 2-5 mốc
+	- Thưởng doanh số: 2-5 mốc
+	- Có thể thêm: Thưởng theo quý,...
